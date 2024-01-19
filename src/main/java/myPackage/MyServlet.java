@@ -45,8 +45,8 @@ public class MyServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		
 		// api key handller 
-		
-		String ApiKey="2a7620cdb76ff1b92c6fa08eb9054b52";
+		// set your api key for working application
+		String ApiKey="weather api key provided by the supplier ";
 		
 		// user input for city name 
 		String City_name =request.getParameter("city_name");

@@ -1,2 +1,3 @@
-<h1>this is the weather web app created for learning purposes</h1>
+Learning Java full stack development 
 <br> 
+Dynamic Web development with Apache tomcat Server
